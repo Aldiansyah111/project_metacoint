@@ -1,7 +1,7 @@
 import { ethers } from "ethers";
 import MetaCoinABI from "./MetaCoin.json";
 
-const contractAddress = "0x5fbdb2315678afecb367f032d93f642f64180aa3";
+const contractAddress = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
 const localProvider = new ethers.JsonRpcProvider("http://localhost:8545");
 
 export function createContract(signerOrProvider) {
