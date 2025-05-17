@@ -1,0 +1,6 @@
+npx hardhat run scripts/deploy.js --network localhost
+npx hardhat node
+
+
+insall icon react
+insta;ll link rouer
